@@ -1,0 +1,95 @@
+RDA1
+4 0
+9 row.names
+5 class
+5 names
+5 E1.16
+2 0 0
+1 0 0
+4
+-1
+19 0 1
+3
+16 0 0
+10
+ 16 CROWN\040ZELLERBACH
+ 22 GREAT\040NORTHERN\040NEKOOSA
+ 16 HAMMERMILL\040PAPER
+ 19 INTERNATIONAL\040PAPER
+ 14 KIMBERLY-CLARK
+ 4 MEAD
+ 15 ST.\040REGIS\040PAPER
+ 11 SCOTT\040PAPER
+ 10 UNION\040CAMP
+ 8 WESTVACO
+-1
+
+14 0 0
+10
+ 1.83
+ 3.35
+ 0.64
+ 2.3
+ 2.39
+ 1.08
+ 2.92
+ 1.11
+ 2.57
+ 1.22
+-1
+
+14 0 0
+10
+ 28
+ 45
+ 12
+ 35
+ 45
+ 14
+ 39
+ 12
+ 43
+ 23
+-1
+
+2 0 0
+1 0 0
+3
+-1
+16 0 0
+3
+ 7 Company
+ 10 Earn.Share
+ 11 Price.Share
+-1
+2 0 0
+1 0 0
+2
+-1
+16 0 0
+1
+ 10 data.frame
+-1
+2 0 0
+1 0 0
+1
+-1
+16 0 0
+10
+ 1 1
+ 1 2
+ 1 3
+ 1 4
+ 1 5
+ 1 6
+ 1 7
+ 1 8
+ 1 9
+ 2 10
+-1
+-1
+-1
+-1
+-1
+-1
+-1
