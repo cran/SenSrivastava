@@ -2,6 +2,7 @@
 \alias{E2.8}
 \non_function{}
 \title{ Data on per Capita Output of Workers in Shanghai }
+\concept{Data on per Capita Output of Workers in Shanghai}
 \usage{data(E2.8)}
 \description{
 The \code{E2.8} data frame has 17 rows and 4 columns, data
@@ -29,5 +30,6 @@ a numeric vector, investments in Yuan per worker.
 }
 \examples{
 data(E2.8)
+summary(E2.8)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E9.18}
 \non_function{}
 \title{ Data Travel Times and Usage for Automobiles and Public Transportation }
+\concept{ Data Travel Times and Usage for Automobiles and Public Transportation }
 \usage{data(E9.18)}
 \description{
 The \code{E9.18} data frame has 51 rows and 4 columns.
@@ -34,5 +35,7 @@ a numeric vector, number of people using any kind of public transportation.
 }
 \examples{
 data(E9.18)
+summary(E9.18)
+plot(E9.18)
 }
 \keyword{datasets}

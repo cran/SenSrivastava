@@ -2,6 +2,7 @@
 \alias{Ec.8}
 \non_function{}
 \title{ Data on asylum requests to the U.S. by country of origen of applicant }
+\concept{ Data on asylum requests to the U.S. by country of origen of applicant }
 \usage{data(Ec.8)}
 \description{
 The \code{Ec.8} data frame has 112 rows and 5 columns.
@@ -33,11 +34,11 @@ a numeric vector, 1 if country is European or mainly inhabited by people
         State University, Saginaw, Michigan.
 }
 \examples{
-##---- Should be DIRECTLY executable !! ----
 data(Ec.8)
 summary(Ec.8)
 attach(Ec.8)
 Ec.8.m1 <- glm(cbind(APR, DEN) ~ E + H, data=Ec.8, family=binomial)
 summary(Ec.8.m1)
+detach()
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E9.21}
 \non_function{}
 \title{ Depreciation in Market Value of Large Factories }
+\concept{ Depreciation in Market Value of Large Factories }
 \usage{data(E9.21)}
 \description{
 The \code{E9.21} data frame has 11 rows and 2 columns.
@@ -23,5 +24,7 @@ a numeric vector, units not given.
 }
 \examples{
 data(E9.21)
+summary(E9.21)
+plot(E9.21)
 }
 \keyword{datasets}

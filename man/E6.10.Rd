@@ -2,6 +2,7 @@
 \alias{E6.10}
 \non_function{}
 \title{ Data on Perceived and Computed Travel Times by Bus }
+\concept{ Data on Perceived and Computed Travel Times by Bus }
 \usage{data(E6.10)}
 \description{
 The \code{E6.10} data frame has 32 rows and 3 columns.
@@ -38,5 +39,6 @@ data(E6.10)
 t <- c(0,1,rep(0,20),1,rep(0,5),1,rep(0,3))
 e6.10 <- data.frame(E6.10, t=t)
 rm(t)
+summary(e6.10)
 }
 \keyword{datasets}

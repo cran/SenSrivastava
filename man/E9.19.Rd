@@ -2,6 +2,7 @@
 \alias{E9.19}
 \non_function{}
 \title{ Acceleration data }
+\concept{ Acceleration data }
 \usage{data(E9.19)}
 \description{
 The \code{E9.19} data frame has 50 rows and 4 columns.
@@ -30,5 +31,7 @@ a numeric vector, Grade of road, G=0 implies road was horizontal.
 }
 \examples{
 data(E9.19)
+summary(E9.19)
+plot(E9.19)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E4.1}
 \non_function{}
 \title{ Traffic Fatality Data for Illinois }
+\concept{ Traffic Fatality Data for Illinois }
 \usage{data(E4.1)}
 \description{
 The \code{E4.1} data frame has 10 rows and 3 columns.
@@ -30,5 +31,6 @@ a numeric vector, deaths.t - deaths.(t-1).
 }
 \examples{
 data(E4.1)
+summary(E4.1)
 }
 \keyword{datasets}

@@ -3,6 +3,8 @@
 \non_function{}
 \title{ Data on PCO2 and Cerebral Blood Flow for Five Regions of the 
                 Brain of five Chimpanzees }
+\concept{ Data on PCO2 and Cerebral Blood Flow for Five Regions of the 
+                Brain of five Chimpanzees }
 \usage{data(E7.4)}
 \description{
 The \code{E7.4} data frame has 5 rows and 11 columns.
@@ -57,5 +59,6 @@ a numeric vector, Cerebellum blood flow.
 }
 \examples{
 data(E7.4)
+summary(E7.4)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E3.5}
 \non_function{}
 \title{ Women's World Record Times for Running and Corresponding Distances }
+\concept{ Women's World Record Times for Running and Corresponding Distances }
 \usage{data(E3.5)}
 \description{
 The \code{E3.5} data frame has 6 rows and 2 columns.
@@ -31,5 +32,6 @@ summary(E3.4)
 records <- rbind(E3.5,E3.4)
 sex <- factor(c(rep("F", 6), rep("M", 13)))
 records$sex <- sex
+summary(records)
 }
 \keyword{datasets}

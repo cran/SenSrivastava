@@ -2,6 +2,7 @@
 \alias{E3.8}
 \non_function{}
 \title{ Map reading Test scores and Route Finding Scores }
+\concept{ Map reading Test scores and Route Finding Scores }
 \usage{data(E3.8)}
 \description{
 The \code{E3.8} data frame has 20 rows and 3 columns. 20 student volunteers
@@ -29,7 +30,7 @@ a factor with levels
 Illinois at Chicago. 
 }
 \examples{
-##---- Should be DIRECTLY executable !! ----
 data(E3.8)
+summary(E3.8)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E1.17}
 \non_function{}
 \title{ Data on Population Density and Vehicle Thefts }
+\concept{Population Density and Vehicle Thefts}
 \usage{data(E1.17)}
 \description{
 The \code{E1.17} data frame has 18 rows and 3 columns.

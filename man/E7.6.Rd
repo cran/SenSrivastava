@@ -2,6 +2,7 @@
 \alias{E7.6}
 \non_function{}
 \title{ Community Area Data for the North Part of the City of Chicago }
+\concept{ Community Area Data for the North Part of the City of Chicago }
 \usage{data(E7.6)}
 \description{
 The \code{E7.6} data frame has 34 rows and 5 columns.
@@ -34,5 +35,6 @@ a numeric vector, median family income for each area.
 }
 \examples{
 data(E7.6)
+summary(E7.6)
 }
 \keyword{datasets}

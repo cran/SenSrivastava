@@ -1,9 +1,11 @@
 \name{E1.20}
 \alias{E1.20}
 \non_function{}
-\title{ Data on Physical Quality of life Index (PQLI) Scores and Infant Mortality Rates (IMR)
+\title{ Data on Physical Quality of Life Index (PQLI) Scores and Infant Mortality Rates (IMR)
          for Selected Indian States }
 \usage{data(E1.20)}
+\concept{Data on Physical Quality of Life Index (PQLI) Scores and Infant Mortality Rates (IMR)
+                for Selected Indian States}
 \description{
 The \code{E1.20} data frame has 13 rows and 7 columns.
 }
@@ -50,5 +52,6 @@ data(E1.20)
  e1.20$Female <- c(rep(0,13), rep(1,13),rep(0,13),rep(1,13))
  e1.20$Urban  <- c(rep(0,26),rep(1,26))
 ## Now the analysis can start.
+summary(e1.20)
 }
 \keyword{datasets}

@@ -3,6 +3,8 @@
 \non_function{}
 \title{ Data on Automobile Speed and Distance Covered to Come to a Standstill 
          after Breaking }
+\concept{ Data on Automobile Speed and Distance Covered to Come to a Standstill 
+         after Breaking }
 \usage{data(E6.1)}
 \description{
 The \code{E6.1} data frame has 62 rows and 2 columns.
@@ -26,5 +28,6 @@ a numeric vector, speed before breaking.
 data(E6.1)
 attach(E6.1)
 plot(sp., d.)
+detach()
 }
 \keyword{datasets}

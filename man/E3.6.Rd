@@ -2,6 +2,7 @@
 \alias{E3.6}
 \non_function{}
 \title{ Data on Corporations and Corporation Chairmen }
+\concept{ Data on Corporations and Corporation Chairmen }
 \usage{data(E3.6)}
 \description{
 The \code{E3.6} data frame has 50 rows and 6 columns.
@@ -36,5 +37,6 @@ a numeric vector, age of chairman, in years.
 }
 \examples{
 data(E3.6)
+summary(E3.6)
 }
 \keyword{datasets}

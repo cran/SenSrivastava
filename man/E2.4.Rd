@@ -2,6 +2,7 @@
 \alias{E2.4}
 \non_function{}
 \title{ International Car Ownership Data }
+\concept{International car Ownership Data}
 \usage{data(E2.4)}
 \description{
 The \code{E2.4} data frame has 24 rows and 8 columns, all data
@@ -44,5 +45,6 @@ a numeric vector, thousands of passenger-kilometers per person of bus and rail u
 }
 \examples{
 data(E2.4)
+summary(E2.4)
 }
 \keyword{datasets}

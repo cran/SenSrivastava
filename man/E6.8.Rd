@@ -2,6 +2,7 @@
 \alias{E6.8}
 \non_function{}
 \title{ Dial-a-ride Data }
+\concept{ Dial-a-ride Data }
 \usage{data(E6.8)}
 \description{
 The \code{E6.8} data frame has 54 rows and 7 columns. It has 7 variables 
@@ -40,5 +41,6 @@ a numeric vector, a composite index, 1 when several ridership enhancing features
 }
 \examples{
 data(E6.8)
+summary(E6.8)
 }
 \keyword{datasets}

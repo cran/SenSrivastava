@@ -2,6 +2,9 @@
 \alias{E11.1}
 \non_function{}
 \title{ Artificially Created Data for an Example on Variable Search }
+\concept{ Artificially Created Data for an Example on Variable Search }
+\concept{variable search}
+\concept{all subsets regression}
 \usage{data(E11.1)}
 \description{
 The \code{E11.1} data frame has 20 rows and 5 columns.

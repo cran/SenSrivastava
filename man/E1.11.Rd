@@ -2,6 +2,7 @@
 \alias{E1.11}
 \non_function{}
 \title{ Data on violent and property crimes in 22 metropolitan areas of the U.S. }
+\concept{violent and property crimes}
 \usage{data(E1.11)}
 \description{
 The \code{E1.11} data frame has 23 rows and 4 columns.
@@ -31,5 +32,6 @@ a numeric vector, in thousands.
 data(E1.11)
 attach(E1.11)
 plot(Population, Violent.Crimes)
+detach()
 }
 \keyword{datasets}

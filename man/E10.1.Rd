@@ -2,6 +2,8 @@
 \alias{E10.1}
 \non_function{}
 \title{ Multicollinear Data }
+\concept{Artificially multicollinear data}
+\concept{variance inflation factor}
 \usage{data(E10.1)}
 \description{
 The \code{E10.1} data frame has 10 rows and 5 columns.
@@ -35,5 +37,11 @@ a numeric vector, response 3.
 data(E10.1)
 attach(E10.1)
 plot(x.1, x.2)
+names(E10.1)
+hascar <- require(car)
+if (hascar) {
+   mod <- lm(y.1 ~ x.1+x.2, data=E10.1)
+   vif(mod)
+}
 }
 \keyword{datasets}

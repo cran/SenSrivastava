@@ -2,6 +2,7 @@
 \alias{E3.7}
 \non_function{}
 \title{ Data on Oxygen Demand in Dairy Wastes }
+\concept{ Data on Oxygen Demand in Dairy Wastes }
 \usage{data(E3.7)}
 \description{
 The \code{E3.7} data frame has 20 rows and 7 columns.
@@ -48,5 +49,6 @@ a numeric vector, the response, log of oxygen demand, mg oxygen per minute.
 }
 \examples{
 data(E3.7)
+summary(E3.7)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E1.19}
 \non_function{}
 \title{ Data on Book Prices, Pages and Type of Binding }
+\concept{Data on Book Prices, Pages and Type of Binding}
 \usage{data(E1.19)}
 \description{
 The \code{E1.19} data frame has 20 rows and 3 columns.
@@ -28,5 +29,6 @@ a factor with levels
 }
 \examples{
 data(E1.19)
+summary(E1.19)
 }
 \keyword{datasets}

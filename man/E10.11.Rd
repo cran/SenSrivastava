@@ -2,6 +2,8 @@
 \alias{E10.11}
 \non_function{}
 \title{ Longley's Data }
+\concept{Longley's data}
+\concept{multicollinearity}
 \usage{data(E10.11)}
 \description{
 The \code{E10.11} data frame has 16 rows and 7 columns.
@@ -39,5 +41,7 @@ a numeric vector, the response, total employment.
 }
 \examples{
 data(E10.11)
+summary(E10.11)
+plot(E10.11)
 }
 \keyword{datasets}

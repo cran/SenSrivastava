@@ -2,6 +2,7 @@
 \alias{E3.9}
 \non_function{}
 \title{ Blood Velocity Data }
+\concept{ Blood Velocity Data }
 \usage{data(E3.9)}
 \description{
 The \code{E3.9} data frame has 18 rows and 4 columns.
@@ -33,5 +34,6 @@ a factor with levels
 }
 \examples{
 data(E3.9)
+summary(E3.9)
 }
 \keyword{datasets}

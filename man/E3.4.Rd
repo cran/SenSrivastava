@@ -2,6 +2,7 @@
 \alias{E3.4}
 \non_function{}
 \title{ Men's Worlds Record Times for Running and Corresponding Distances }
+\concept{ Men's Worlds Record Times for Running and Corresponding Distances }
 \usage{data(E3.4)}
 \description{
 The \code{E3.4} data frame has 13 rows and 2 columns.
@@ -25,5 +26,6 @@ a numeric vector, time in seconds.
 }
 \examples{
 data(E3.4)
+summary(E3.4)
 }
 \keyword{datasets}

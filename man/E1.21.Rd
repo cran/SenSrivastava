@@ -2,6 +2,7 @@
 \alias{E1.21}
 \non_function{}
 \title{ Data on Loads and Deformation of a Bar }
+\concept{Data on Loads and Deformation of a Bar}
 \usage{data(E1.21)}
 \description{
 The \code{E1.21} data frame has 24 rows and 2 columns. Data are on loads, 
@@ -27,5 +28,6 @@ a numeric vector, corresponding deformation, in inches.
 data(E1.21)
 attach(E1.21)
 plot(L, D)
+detach()
 }
 \keyword{datasets}

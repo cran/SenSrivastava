@@ -2,6 +2,7 @@
 \alias{E4.10}
 \non_function{}
 \title{ Votes from Chicago's Twenty-second Ward by Precinct }
+\concept{ Votes from Chicago's Twenty-second Ward by Precinct }
 \usage{data(E4.10)}
 \description{
 The \code{E4.10} data frame has 27 rows and 7 columns.
@@ -41,5 +42,6 @@ a numeric vector, number of votes for Yanez.
 }
 \examples{
 data(E4.10)
+summary(E4.10)
 }
 \keyword{datasets}

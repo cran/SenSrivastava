@@ -2,6 +2,7 @@
 \alias{E4.11}
 \non_function{}
 \title{ Data on Cost of Repairing Starters, Ring Gears or Both in Diesel Engines }
+\concept{ Data on Cost of Repairing Starters, Ring Gears or Both in Diesel Engines }
 \usage{data(E4.11)}
 \description{
 The \code{E4.11} data frame has 133 rows and 2 columns.
@@ -25,7 +26,6 @@ a factor with levels
  at Chicago.
 }
 \examples{
-##---- Should be DIRECTLY executable !! ----
 data(E4.11)
 E4.11.m1 <- lm(Cost ~ Part - 1, data=E4.11)
 summary(E4.11.m1)

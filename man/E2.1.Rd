@@ -2,6 +2,7 @@
 \alias{E2.1}
 \non_function{}
 \title{ Data on Grade Point Average and SAT Scores }
+\concept{Data on Grade Point Average and SAT Scores}
 \usage{data(E2.1)}
 \description{
 The \code{E2.1} data frame has 9 rows and 3 columns.
@@ -25,5 +26,6 @@ a numeric vector, SAT mathematical score.
 }
 \examples{
 data(E2.1)
+summary(E2.1)
 }
 \keyword{datasets}

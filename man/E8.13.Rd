@@ -2,11 +2,12 @@
 \alias{E8.13}
 \non_function{}
 \title{ Florida Cumulus Experiment Data }
+\concept{ Florida Cumulus Experiment Data }
 \usage{data(E8.13)}
 \description{
 The \code{E8.13} data frame has 20 rows and 7 columns, giving 
   data on the effects of cloud seeding by silver iodide 
-crystals on precipitation. Each data point is one day.
+  crystals on precipitation. Each data point is one day.
 }
 \format{
 This data frame contains the following columns:
@@ -47,5 +48,7 @@ target area in a 6-hour period (in $10^7$ cubic meters).
 }
 \examples{
 data(E8.13)
+summary(E8.13)
+plot(E8.13)
 }
 \keyword{datasets}

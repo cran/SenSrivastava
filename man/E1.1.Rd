@@ -2,6 +2,7 @@
 \alias{E1.1}
 \non_function{}
 \title{ Data on density of vehicles and average speed }
+\concept{vehicle density and speed}
 \usage{data(E1.1)}
 \description{
 The \code{E1.1} data frame has 24 rows and 2 columns.
@@ -25,7 +26,6 @@ a numeric vector, miles per hour.
  \emph{Highway Research Board Bulletin} \bold{167} 63--74.
 }
 \examples{
-##---- Should be DIRECTLY executable !! ----
 data(E1.1)
 attach(E1.1)
 plot(DENSITY, sqrt(SPEED))

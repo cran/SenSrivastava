@@ -2,6 +2,7 @@
 \alias{E2.7}
 \non_function{}
 \title{ Korean Auto Ownership Data }
+\concept{Korean Auto Ownership Data}
 \usage{data(E2.7)}
 \description{
 The \code{E2.7} data frame has 10 rows and 5 columns.
@@ -32,5 +33,6 @@ a numeric vector, gasoline price after taxes, in wons per liter.
 }
 \examples{
 data(E2.7)
+summary(E2.7)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E1.18}
 \non_function{}
 \title{ Data on Simsbury Marriages }
+\concept{Simsbury Marriages}
 \usage{data(E1.18)}
 \description{
 The \code{E1.18} data frame has 8 rows and 3 columns with 
@@ -29,5 +30,6 @@ a numeric vector, number of marriages.
 }
 \examples{
 data(E1.18)
+summary(E1.18)
 }
 \keyword{datasets}

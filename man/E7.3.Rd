@@ -2,6 +2,7 @@
 \alias{E7.3}
 \non_function{}
 \title{ Data on Intake/Output Ratio }
+\concept{ Data on Intake/Output Ratio }
 \usage{data(E7.3)}
 \description{
 The \code{E7.3} data frame has 19 rows and 6 columns.
@@ -41,5 +42,6 @@ a numeric vector, \code{u} for time period 5.
 }
 \examples{
 data(E7.3)
+summary(E7.3)
 }
 \keyword{datasets}

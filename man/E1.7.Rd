@@ -2,6 +2,7 @@
 \alias{E1.7}
 \non_function{}
 \title{ Data on Population and Number of Telephones }
+\concept{Relation between population  number  telephones}
 \usage{data(E1.7)}
 \description{
 The \code{E1.7} data frame has 6 rows and 2 columns. The relation between 

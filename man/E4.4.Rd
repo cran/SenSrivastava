@@ -3,6 +3,8 @@
 \non_function{}
 \title{ Measures of Quality for Agencies Delivering Transportation for 
         the Elderly and the Handicapped }
+\concept{ Measures of Quality for Agencies Delivering Transportation for 
+        the Elderly and the Handicapped }
 \usage{data(E4.4)}
 \description{
 The \code{E4.4} data frame has 40 rows and 3 columns.
@@ -36,5 +38,6 @@ a numeric vector, an indicator variable for private for profit ownership.
 }
 \examples{
 data(E4.4)
+summary(E4.4)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E9.8}
 \non_function{}
 \title{ Data on monthly rent, annual income and househould size }
+\concept{ Data on monthly rent, annual income and househould size }
 \usage{data(E9.8)}
 \description{
 The \code{E9.8} data frame has 27 rows and 3 columns.
@@ -28,12 +29,12 @@ a numeric vector, household size.
  several sources about 20 years ago.
 }
 \examples{
-##---- Should be DIRECTLY executable !! ----
 data(E9.8)
 attach(E9.8)
 E9.8.m1 <- lm(R ~ I + S, data=E9.8)
 summary(E9.8.m1)
 plot(I, resid(E9.8.m1, type="partial")[,"I"])
 plot(S, resid(E9.8.m1, type="partial")[,"S"])
+detach()
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E9.3}
 \non_function{}
 \title{ "Areas", lengths and widths of rectangles }
+\concept{ "Areas", lengths and widths of rectangles }
 \usage{data(E9.3)}
 \description{
 The \code{E9.3} data frame has 50 rows and 3 columns.
@@ -28,5 +29,6 @@ E9.3.m1 <- lm(y ~ x1 + x2, data=E9.3)
 attach(E9.3)
 plot(x1, resid(E9.3.m1))
 plot(x2, resid(E9.3.m1))
+detach(E9.3)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E6.11}
 \non_function{}
 \title{ Heights of Fathers and Sons }
+\concept{ Heights of Fathers and Sons }
 \usage{data(E6.11)}
 \description{
 The \code{E6.11} data frame has 12 rows and 3 columns.
@@ -26,5 +27,6 @@ a numeric vector, number of fathers in each group.
 }
 \examples{
 data(E6.11)
+summary(E6.11)
 }
 \keyword{datasets}

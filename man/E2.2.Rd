@@ -2,6 +2,7 @@
 \alias{E2.2}
 \non_function{}
 \title{ Data on House Prices }
+\concept{Data on House Prices}
 \usage{data(E2.2)}
 \description{
 The \code{E2.2} data frame has 26 rows and 14 columns, data on 
@@ -59,5 +60,6 @@ a numeric vector, indicator for zone B.
 }
 \examples{
 data(E2.2)
+summary(E2.2)
 }
 \keyword{datasets}

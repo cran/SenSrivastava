@@ -1,7 +1,8 @@
 \name{E2.9}
 \alias{E2.9}
 \non_function{}
-\title{ Data on capital, Labour and Value Added for Three Sectors }
+\title{ Data on Capital, Labour and Value Added for Three Sectors }
+\concept{Data on Capital, Labour and Value Added for Three Sectors}
 \usage{data(E2.9)}
 \description{
 The \code{E2.9} data frame has 15 rows and 10 columns.
@@ -48,5 +49,6 @@ a numeric vector, real value added of sector 37.
 }
 \examples{
 data(E2.9)
+summary(E2.9)
 }
 \keyword{datasets}

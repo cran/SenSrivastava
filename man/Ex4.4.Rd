@@ -2,6 +2,7 @@
 \alias{Ex4.4}
 \non_function{}
 \title{ Data on Effects of Air Pollution on Interpersonal Attraction }
+\concept{ Data on Effects of Air Pollution on Interpersonal Attraction }
 \usage{data(Ex4.4)}
 \description{
 The \code{Ex4.4} data frame has 24 rows and 3 columns.
@@ -37,5 +38,7 @@ a factor with levels
 }
 \examples{
 data(Ex4.4)
+summary(Ex4.4)
+plot(Ex4.4)
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{E4.7}
 \non_function{}
 \title{ Data on Per-Capita Income and Life Expectancy }
+\concept{ Data on Per-Capita Income and Life Expectancy }
 \usage{data(E4.7)}
 \description{
 The \code{E4.7} data frame has 101 rows and 3 columns.
@@ -28,5 +29,6 @@ data(E4.7)
 attach(E4.7)
 plot(INC, LIFE)
 plot(log(INC), LIFE)
+detach()
 }
 \keyword{datasets}

@@ -2,6 +2,7 @@
 \alias{Ex.7.7}
 \non_function{}
 \title{ U.S. Population in thousands, for exercise 7.7 }
+\concept{U.S. Population}
 \usage{data(Ex.7.7)}
 \description{
 The \code{Ex.7.7} data frame has 19 rows and 2 columns.
@@ -24,5 +25,7 @@ a numeric vector, year.
 \examples{
 ##---- Should be DIRECTLY executable !! ----
 data(Ex.7.7)
+with(Ex.7.7, plot(y ~ t))
+summary(Ex.7.7)
 }
 \keyword{datasets}

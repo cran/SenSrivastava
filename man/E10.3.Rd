@@ -2,6 +2,7 @@
 \alias{E10.3}
 \non_function{}
 \title{ Supervisor Rating Data }
+\concept{ Supervisor Rating Data }
 \usage{data(E10.3)}
 \description{
 The \code{E10.3} data frame has 30 rows and 6 columns.
@@ -47,5 +48,7 @@ a numeric vector, the response.
 }
 \examples{
 data(E10.3)
+summary(E10.3)
+plot(E10.3)
 }
 \keyword{datasets}

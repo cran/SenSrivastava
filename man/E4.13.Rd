@@ -2,6 +2,7 @@
 \alias{E4.13}
 \non_function{}
 \title{ Data on Hospital Charges }
+\concept{ Data on Hospital Charges }
 \usage{data(E4.13)}
 \description{
 The \code{E4.13} data frame has 49 rows and 5 columns. Data on hospital

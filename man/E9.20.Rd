@@ -2,6 +2,7 @@
 \alias{E9.20}
 \non_function{}
 \title{ Stadium Cleanup Data }
+\concept{ Stadium Cleanup Data }
 \usage{data(E9.20)}
 \description{
 The \code{E9.20} data frame has 16 rows and 3 columns.
@@ -25,5 +26,7 @@ a numeric vector, sales at beer stands. Units forgotten.
 }
 \examples{
 data(E9.20)
+summary(E9.20)
+plot(E9.20)
 }
 \keyword{datasets}

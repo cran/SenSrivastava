@@ -1,7 +1,8 @@
 \name{E9.11}
 \alias{E9.11}
 \non_function{}
-\title{ Data on transit Privatization }
+\title{ Data on Transit Privatization }
+\concept{ Data on Transit Privatization }
 \usage{data(E9.11)}
 \description{
 The \code{E9.11} data frame has 17 rows and 10 columns.
@@ -49,5 +50,7 @@ a numeric vector, per cent savings that occurred when some transit lines
 }
 \examples{
 data(E9.11)
+summary(E9.11)
+plot(E9.11)
 }
 \keyword{datasets}

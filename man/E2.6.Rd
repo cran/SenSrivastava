@@ -2,6 +2,7 @@
 \alias{E2.6}
 \non_function{}
 \title{ Voltage Data }
+\concept{Voltage Data}
 \usage{data(E2.6)}
 \description{
 The \code{E2.6} data frame has 10 rows and 2 columns.

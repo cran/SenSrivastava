@@ -2,6 +2,8 @@
 \alias{E7.1}
 \non_function{}
 \title{ Data on Dental Measurements }
+\concept{ Data on Dental Measurements }
+\concept{growth curve}
 \usage{data(E7.1)}
 \description{
 The \code{E7.1} data frame has 4 rows and 12 columns.
@@ -54,5 +56,6 @@ a numeric vector, measurements for girl 11.
 }
 \examples{
 data(E7.1)
+summary(E7.1)
 }
 \keyword{datasets}

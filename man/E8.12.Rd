@@ -2,6 +2,7 @@
 \alias{E8.12}
 \non_function{}
 \title{ Data on Lung Cancer Deaths and Cigarette Smoking }
+\concept{ Data on Lung Cancer Deaths and Cigarette Smoking }
 \usage{data(E8.12)}
 \description{
 The \code{E8.12} data frame has 11 rows and 3 columns.
@@ -27,5 +28,6 @@ a numeric vector, per capita cigarette consumption in 1930.
 }
 \examples{
 data(E8.12)
+summary(E8.12)
 }
 \keyword{datasets}
