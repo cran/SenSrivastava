@@ -1,9 +1,9 @@
 Package:	SenSrivastava
-Version:	0.1-3
-Date:		2003-01-12
+Version:	0.1-4
+Date:		2003-09-12
 Title:		Datasets from Sen & Srivastava
 Author:		Kjetil Halvorsen, <kjetil@entelnet.bo>
-Maintainer:	Kjetil Halvorsen, <kjetilh@entelnet.bo>
+Maintainer:	Kjetil Halvorsen, <kjetil@entelnet.bo>
 Depends:        R (>= 0.99), leaps
 Description:	Collection of datasets from Sen & Srivastava:
                 Regression Analysis, Theory, Methods and Applications,
