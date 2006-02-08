@@ -32,3 +32,6 @@ cat("Use the mouse to identify the outlier in the plot (click on the outlier)\n"
 \dontrun{identify(pd, vtt)}
 }
 \keyword{datasets}
+\concept{regression}
+\concept{outlier}
+

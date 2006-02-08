@@ -27,7 +27,8 @@ a numeric vector, the log of \code{y}.
 }
 
 \source{
- Dacey,M.F. (1983)  \emph{Social science Theories and Methods I: Models of Data}
+ Dacey,M.F. (1983)  \emph{Social science Theories and Methods I: 
+                    Models of Data}
  Evanston: Northwestern University, fromStevens (1956).    
 }
 \examples{
@@ -38,3 +39,5 @@ abline(lm( logy ~ x, data=E1.15))
 detach()
 }
 \keyword{datasets}
+\concept{regression}
+

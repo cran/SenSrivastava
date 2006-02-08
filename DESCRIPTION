@@ -1,6 +1,6 @@
 Package:	SenSrivastava
-Version:	0.1-7
-Date:		2005-10-15
+Version:	0.1-8
+Date:		2006-02-08
 Title:		Datasets from Sen & Srivastava
 Author:		Kjetil Halvorsen, <kjetil1001@gmail.com>
 Maintainer:	Kjetil Halvorsen, <kjetil1001@gmail.com>
@@ -12,4 +12,4 @@ Description:	Collection of datasets from Sen & Srivastava:
                 Springer.  Sources for individual data files are more fully
                 documented in the book.
 License:	GPL, version 2 or newer
-Packaged: Thu Oct  6 17:47:38 2005; halvorsen
+Packaged: Wed Feb  8 15:54:42 2006; halvorsen

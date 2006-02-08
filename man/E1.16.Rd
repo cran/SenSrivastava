@@ -28,3 +28,5 @@ a numeric vector, prive per share, in dollars, in may, 1973.
 with(E1.16, plot(Price.Share, Earn.Share))
 }
 \keyword{datasets}
+\concept{regression}
+

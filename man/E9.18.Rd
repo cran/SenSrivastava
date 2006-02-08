@@ -8,20 +8,20 @@
 The \code{E9.18} data frame has 51 rows and 4 columns.
 }
 \format{
-This data frame contains the following columns:
+   This data frame contains the following columns:
 \describe{
 \item{t.a}{
-a numeric vector, travel time by car, in tenth of minutes.
+   a numeric vector, travel time by car, in tenth of minutes.
 }
 \item{t.r}{
-a numeric vector, travel time by public transportation, in tenth of minutes.
+   a numeric vector, travel time by public transportation, in tenth of minutes.
 }
 \item{m.a}{
-a numeric vector, number of those who used a car or van either as driver
+   a numeric vector, number of those who used a car or van either as driver
             or passenger.
 }
 \item{m.r}{
-a numeric vector, number of people using any kind of public transportation.
+   a numeric vector, number of people using any kind of public transportation.
 }
 }
 }
@@ -39,3 +39,5 @@ summary(E9.18)
 plot(E9.18)
 }
 \keyword{datasets}
+\concept{regression}
+

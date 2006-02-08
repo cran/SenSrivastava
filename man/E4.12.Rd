@@ -3,8 +3,7 @@
 \non_function{}
 \title{ Time taken by Professional Dieticians and Interns for Four Patient 
          Contact Activities }
-\concept{ Time taken by Professional Dieticians and Interns for Four Patient 
-         Contact Activities }
+\concept{ Time taken by Professional Dieticians and Interns for Four Patient Contact Activities }
 \usage{data(E4.12)}
 \description{
    The \code{E4.12} data frame has 24 rows and 6 columns. Each row is the 
@@ -43,3 +42,5 @@ m1 <- lm(Time ~ SC+DC+MR+TR-1, data=E4.12, subset=Dietician=="Prof")
 summary(m1)
 }
 \keyword{datasets}
+\concept{regression}
+

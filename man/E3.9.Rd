@@ -37,3 +37,5 @@ data(E3.9)
 summary(E3.9)
 }
 \keyword{datasets}
+\concept{regression}
+

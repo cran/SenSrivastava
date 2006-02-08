@@ -29,3 +29,6 @@ with(Ex.7.7, plot(y ~ t))
 summary(Ex.7.7)
 }
 \keyword{datasets}
+\concept{regression}
+\concept{time series}
+

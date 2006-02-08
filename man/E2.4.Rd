@@ -48,3 +48,5 @@ data(E2.4)
 summary(E2.4)
 }
 \keyword{datasets}
+\concept{regression}
+

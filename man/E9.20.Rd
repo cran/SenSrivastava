@@ -8,21 +8,21 @@
 The \code{E9.20} data frame has 16 rows and 3 columns.
 }
 \format{
-This data frame contains the following columns:
+   This data frame contains the following columns:
 \describe{
 \item{C}{
-a numeric vector, cost of cleanup. Units forgotten.
+   a numeric vector, cost of cleanup. Units forgotten.
 }
 \item{R.HD}{
-a numeric vector, sales at hot-dog stands. Units forgotten.
+   a numeric vector, sales at hot-dog stands. Units forgotten.
 }
 \item{R.B}{
-a numeric vector, sales at beer stands. Units forgotten.
+   a numeric vector, sales at beer stands. Units forgotten.
 }
 }
 }
 \source{
- The authors of the book.
+  The authors of the book.
 }
 \examples{
 data(E9.20)
@@ -30,3 +30,5 @@ summary(E9.20)
 plot(E9.20)
 }
 \keyword{datasets}
+\concept{regression}
+

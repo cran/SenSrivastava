@@ -33,3 +33,6 @@ data(E1.18)
 summary(E1.18)
 }
 \keyword{datasets}
+\concept{social network}
+\concept{regression}
+

@@ -31,3 +31,6 @@ E4.11.m1 <- lm(Cost ~ Part - 1, data=E4.11)
 summary(E4.11.m1)
 }
 \keyword{datasets}
+\concept{regression}
+
+

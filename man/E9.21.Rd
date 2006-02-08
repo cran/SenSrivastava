@@ -5,10 +5,10 @@
 \concept{ Depreciation in Market Value of Large Factories }
 \usage{data(E9.21)}
 \description{
-The \code{E9.21} data frame has 11 rows and 2 columns.
+   The \code{E9.21} data frame has 11 rows and 2 columns.
 }
 \format{
-This data frame contains the following columns:
+   This data frame contains the following columns:
 \describe{
 \item{Age}{
 a numeric vector, units not given, probably years.
@@ -28,3 +28,5 @@ summary(E9.21)
 plot(E9.21)
 }
 \keyword{datasets}
+\concept{regression}
+

@@ -2,12 +2,12 @@
 \alias{E2.11}
 \non_function{}
 \title{ Demographic Data for the 50 States of the U.S. }
-\concept{Demographic Data for the 50 States of teh U.S.}
+\concept{Demographic Data for the 50 States of the U.S.}
 \usage{data(E2.11)}
 \description{
 The \code{E2.11} data frame has 50 rows and 27 columns, this 
  combines exhibits E2.10 and E2.11 in the book. The data are for 1980 except as 
-noted.
+ noted.
 }
 \format{
 This data frame contains the following columns:

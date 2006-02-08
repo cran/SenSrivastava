@@ -31,3 +31,5 @@ plot(L, D)
 detach()
 }
 \keyword{datasets}
+\concept{regression}
+

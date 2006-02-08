@@ -25,10 +25,12 @@ a factor with levels
 }
 }
 \source{
- Compiled by one of the authors.
+   Compiled by one of the authors.
 }
 \examples{
-data(E1.19)
-summary(E1.19)
+   data(E1.19)
+   summary(E1.19)
 }
 \keyword{datasets}
+\concept{regression}
+

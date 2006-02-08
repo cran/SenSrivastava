@@ -3,8 +3,7 @@
 \non_function{}
 \title{ Prices of Crude Oil, Natural Gas, Bituminous Coal and Lignite, 
            and Anthracite by Year. }
-\concept{ Prices of Crude Oil, Natural Gas, Bituminous Coal and Lignite, 
-           and Anthracite by Year. }
+\concept{Prices of Crude Oil, Natural Gas, Bituminous Coal and Lignite, and Anthracite by Year.}
 \usage{data(E7.2)}
 \description{
 The \code{E7.2} data frame has 32 rows and 5 columns.
@@ -38,3 +37,5 @@ data(E7.2)
 summary(E7.2)
 }
 \keyword{datasets}
+\concept{regression}
+

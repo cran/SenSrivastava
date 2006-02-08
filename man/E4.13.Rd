@@ -46,3 +46,5 @@ data(E4.13)
 summary(E4.13)
 }
 \keyword{datasets}
+\concept{regression}
+

@@ -25,7 +25,8 @@ a numeric vector, in thousands.
 }
 }
 \source{
- Dacey, M.F.(1983) \emph{Social science Theories and Methods I: Models of data}, Evanston: 
+ Dacey, M.F.(1983) \emph{Social science Theories and Methods I: 
+                  Models of data}, Evanston: 
                Northwestern University.
 }
 \examples{
@@ -35,3 +36,5 @@ plot(Population, Violent.Crimes)
 detach()
 }
 \keyword{datasets}
+\concept{regression}
+

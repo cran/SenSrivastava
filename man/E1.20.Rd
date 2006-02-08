@@ -1,11 +1,11 @@
 \name{E1.20}
 \alias{E1.20}
 \non_function{}
-\title{ Data on Physical Quality of Life Index (PQLI) Scores and Infant Mortality Rates (IMR)
+\title{ Data on Physical Quality of Life Index (PQLI) Scores and Infant Mortality 
+         Rates (IMR)
          for Selected Indian States }
 \usage{data(E1.20)}
-\concept{Data on Physical Quality of Life Index (PQLI) Scores and Infant Mortality Rates (IMR)
-                for Selected Indian States}
+\concept{Data on Physical Quality of Life Index (PQLI) Scores and Infant   Mortality Rates (IMR)}
 \description{
 The \code{E1.20} data frame has 13 rows and 7 columns.
 }
@@ -55,3 +55,5 @@ data(E1.20)
 summary(e1.20)
 }
 \keyword{datasets}
+\concept{regression}
+

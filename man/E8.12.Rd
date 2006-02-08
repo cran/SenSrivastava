@@ -8,16 +8,16 @@
 The \code{E8.12} data frame has 11 rows and 3 columns.
 }
 \format{
-This data frame contains the following columns:
+   This data frame contains the following columns:
 \describe{
 \item{Country}{
-a character vector, the country.
+   a character vector, the country.
 }
 \item{y}{
-a numeric vector, male deaths in 1950 for lung cancer, per million.
+   a numeric vector, male deaths in 1950 for lung cancer, per million.
 }
 \item{x}{
-a numeric vector, per capita cigarette consumption in 1930.
+   a numeric vector, per capita cigarette consumption in 1930.
 }
 }
 }
@@ -31,3 +31,6 @@ data(E8.12)
 summary(E8.12)
 }
 \keyword{datasets}
+\concept{regression}
+
+

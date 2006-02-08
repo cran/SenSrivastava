@@ -4,6 +4,7 @@
 \title{ Data on Dental Measurements }
 \concept{ Data on Dental Measurements }
 \concept{growth curve}
+\concept{regression}
 \usage{data(E7.1)}
 \description{
 The \code{E7.1} data frame has 4 rows and 12 columns.
@@ -59,3 +60,4 @@ data(E7.1)
 summary(E7.1)
 }
 \keyword{datasets}
+

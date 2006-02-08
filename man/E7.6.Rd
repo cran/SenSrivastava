@@ -11,19 +11,19 @@ The \code{E7.6} data frame has 34 rows and 5 columns.
 This data frame contains the following columns:
 \describe{
 \item{Area.Name}{
-a character vector, name of area.
+  a character vector, name of area.
 }
 \item{PB}{
-a numeric vector, percentage of population which are black.
+  a numeric vector, percentage of population which are black.
 }
 \item{PS}{
-a numeric vector, percentage of population which are spanish speaking.
+  a numeric vector, percentage of population which are spanish speaking.
 }
 \item{PA}{
-a numeric vector, percentage of population over 65.
+  a numeric vector, percentage of population over 65.
 }
 \item{Income}{
-a numeric vector, median family income for each area.
+  a numeric vector, median family income for each area.
 }
 }
 }

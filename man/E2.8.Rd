@@ -29,7 +29,10 @@ a numeric vector, investments in Yuan per worker.
  Prof. Zhang Tingwei of Tongji University, Shanghai.
 }
 \examples{
-data(E2.8)
-summary(E2.8)
+   data(E2.8)
+   summary(E2.8)
 }
 \keyword{datasets}
+\concept{regression}
+
+

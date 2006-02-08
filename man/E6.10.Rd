@@ -42,3 +42,5 @@ rm(t)
 summary(e6.10)
 }
 \keyword{datasets}
+\concept{regression}
+

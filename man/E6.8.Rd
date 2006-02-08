@@ -3,6 +3,7 @@
 \non_function{}
 \title{ Dial-a-ride Data }
 \concept{ Dial-a-ride Data }
+\concept{weighted regression }
 \usage{data(E6.8)}
 \description{
 The \code{E6.8} data frame has 54 rows and 7 columns. It has 7 variables 
@@ -44,3 +45,4 @@ data(E6.8)
 summary(E6.8)
 }
 \keyword{datasets}
+

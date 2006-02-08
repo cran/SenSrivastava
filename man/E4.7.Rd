@@ -32,3 +32,5 @@ plot(log(INC), LIFE)
 detach()
 }
 \keyword{datasets}
+\concept{regression}
+

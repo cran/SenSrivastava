@@ -7,30 +7,30 @@
 \concept{all subsets regression}
 \usage{data(E11.1)}
 \description{
-The \code{E11.1} data frame has 20 rows and 5 columns.
+   The \code{E11.1} data frame has 20 rows and 5 columns.
 }
 \format{
-This data frame contains the following columns:
+   This data frame contains the following columns:
 \describe{
 \item{x.1}{
-a numeric vector, predictor 1.
+   a numeric vector, predictor 1.
 }
 \item{x.2}{
-a numeric vector, predictor 2.
+   a numeric vector, predictor 2.
 }
 \item{x.3}{
-a numeric vector, predictor 3.
+   a numeric vector, predictor 3.
 }
 \item{x.4}{
-a numeric vector, predictor 4.
+   a numeric vector, predictor 4.
 }
 \item{y}{
-a numeric vector, response.
+   a numeric vector, response.
 }
 }
 }
 \source{
- Data made up by the authors.
+   Data made up by the authors.
 }
 \examples{
 data(E11.1)

@@ -33,3 +33,5 @@ E2.6.m1 <- lm(V.c/V.a ~ V.a + I(V.a^2), data=E2.6)
 plot(E2.6.m1)
 }
 \keyword{datasets}
+\concept{regression}
+

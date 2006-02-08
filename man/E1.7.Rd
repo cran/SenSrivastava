@@ -31,3 +31,4 @@ plot(RES, MAINS)
 plot(sqrt(RES), sqrt(MAINS))
 }
 \keyword{datasets}
+\concept{regression}

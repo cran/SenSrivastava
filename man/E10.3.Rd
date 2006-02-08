@@ -52,3 +52,5 @@ summary(E10.3)
 plot(E10.3)
 }
 \keyword{datasets}
+\concept{regression}
+

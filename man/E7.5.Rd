@@ -35,8 +35,8 @@ a numeric vector, weight in motion of axles 4--5.
  weighting station and each axle is weighted by conventional means.  The
  other is newer and a somewhat experimental method where a thin pad is placed 
  on the highway and axles are weighted as trucks pass over it. Former weight 
-are called static weights (\code{sw}) while later are called weights in 
-motion (\code{wim}). 
+ are called static weights (\code{sw}) while later are called weights in 
+ motion (\code{wim}). 
 }
 \source{
  Saleh Mumayiz, Urban Transportation Center, University of Illinois at Chicago, 
@@ -49,3 +49,5 @@ summary(E7.5)
 plot(E7.5)
 }
 \keyword{datasets}
+\concept{regression}
+
