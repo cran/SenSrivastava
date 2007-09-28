@@ -1,6 +1,6 @@
 Package:	SenSrivastava
-Version:	0.1-9
-Date:		2006-09-02
+Version:	0.1-10
+Date:		2007-09-28
 Title:		Datasets from Sen & Srivastava
 Author:		Kjetil Halvorsen, <kjetil1001@gmail.com>
 Maintainer:	Kjetil Halvorsen, <kjetil1001@gmail.com>
@@ -11,5 +11,6 @@ Description:	Collection of datasets from Sen & Srivastava:
                 Regression Analysis, Theory, Methods and Applications,
                 Springer.  Sources for individual data files are more fully
                 documented in the book.
-License:	GPL, version 2 or newer
-Packaged: Sun Sep  3 16:20:58 2006; halvorsen
+License:	GPL (>= 2)
+Encoding:       latin2
+Packaged: Fri Sep 28 17:43:51 2007; halvorsen
