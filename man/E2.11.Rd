@@ -1,6 +1,5 @@
 \name{E2.11}
 \alias{E2.11}
-\non_function{}
 \title{ Demographic Data for the 50 States of the U.S. }
 \concept{Demographic Data for the 50 States of the U.S.}
 \usage{data(E2.11)}

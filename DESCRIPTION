@@ -1,10 +1,10 @@
 Package:	SenSrivastava
-Version:	0.1-11
-Date:		2007-10-10
+Version:	0.1-12
+Date:		2007-10-20
 Title:		Datasets from Sen & Srivastava
 Author:		Kjetil Halvorsen <kjetil1001@gmail.com>
 Maintainer:	Kjetil Halvorsen <kjetil1001@gmail.com>
-Depends:        R (>= 2.1.0), stats
+Depends:        R (>= 2.5.0), stats
 Suggests:       leaps, car
 LazyData:       TRUE
 Description:	Collection of datasets from Sen & Srivastava:
@@ -13,4 +13,4 @@ Description:	Collection of datasets from Sen & Srivastava:
                 documented in the book.
 License:	GPL (>= 2)
 Encoding:       latin2
-Packaged: Mon Oct 15 09:42:41 2007; halvorsen
+Packaged: Sat Oct 20 00:48:05 2007; halvorsen

@@ -1,6 +1,5 @@
 \name{E4.1}
 \alias{E4.1}
-\non_function{}
 \title{ Traffic Fatality Data for Illinois }
 \concept{ Traffic Fatality Data for Illinois }
 \usage{data(E4.1)}

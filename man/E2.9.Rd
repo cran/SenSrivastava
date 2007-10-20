@@ -1,6 +1,5 @@
 \name{E2.9}
 \alias{E2.9}
-\non_function{}
 \title{ Data on Capital, Labour and Value Added for Three Sectors }
 \concept{Data on Capital, Labour and Value Added for Three Sectors}
 \usage{data(E2.9)}

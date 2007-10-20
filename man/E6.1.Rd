@@ -1,6 +1,5 @@
 \name{E6.1}
 \alias{E6.1}
-\non_function{}
 \title{ Data on Automobile Speed and Distance Covered to Come to a Standstill 
          after Breaking }
 \concept{ Data on Automobile Speed and Distance Covered to Come to a Standstill after Breaking }

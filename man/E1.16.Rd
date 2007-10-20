@@ -1,6 +1,5 @@
 \name{E1.16}
 \alias{E1.16}
-\non_function{}
 \title{ Earnings and Prices of Selected Paper Company Stocks }
 \concept{Earnings and prices of selected paper company stocks}
 \usage{data(E1.16)}

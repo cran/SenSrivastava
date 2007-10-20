@@ -1,6 +1,5 @@
 \name{E1.20}
 \alias{E1.20}
-\non_function{}
 \title{ Data on Physical Quality of Life Index (PQLI) Scores and Infant Mortality 
          Rates (IMR)
          for Selected Indian States }

@@ -1,6 +1,5 @@
 \name{E3.6}
 \alias{E3.6}
-\non_function{}
 \title{ Data on Corporations and Corporation Chairmen }
 \concept{ Data on Corporations and Corporation Chairmen }
 \usage{data(E3.6)}

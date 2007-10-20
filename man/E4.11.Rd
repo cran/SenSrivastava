@@ -1,6 +1,5 @@
 \name{E4.11}
 \alias{E4.11}
-\non_function{}
 \title{ Data on Cost of Repairing Starters, Ring Gears or Both in Diesel Engines }
 \concept{ Data on Cost of Repairing Starters, Ring Gears or Both in Diesel Engines }
 \usage{data(E4.11)}

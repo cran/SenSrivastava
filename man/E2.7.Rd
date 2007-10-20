@@ -1,6 +1,5 @@
 \name{E2.7}
 \alias{E2.7}
-\non_function{}
 \title{ Korean Auto Ownership Data }
 \concept{Korean Auto Ownership Data}
 \usage{data(E2.7)}

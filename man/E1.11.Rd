@@ -1,6 +1,5 @@
 \name{E1.11}
 \alias{E1.11}
-\non_function{}
 \title{ Data on violent and property crimes in 22 metropolitan areas of the U.S. }
 \concept{violent and property crimes}
 \usage{data(E1.11)}

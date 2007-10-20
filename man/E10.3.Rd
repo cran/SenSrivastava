@@ -1,6 +1,5 @@
 \name{E10.3}
 \alias{E10.3}
-\non_function{}
 \title{ Supervisor Rating Data }
 \concept{ Supervisor Rating Data }
 \usage{data(E10.3)}

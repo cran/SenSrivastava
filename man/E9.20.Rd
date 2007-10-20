@@ -1,6 +1,5 @@
 \name{E9.20}
 \alias{E9.20}
-\non_function{}
 \title{ Stadium Cleanup Data }
 \concept{ Stadium Cleanup Data }
 \usage{data(E9.20)}

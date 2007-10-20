@@ -1,6 +1,5 @@
 \name{E3.5}
 \alias{E3.5}
-\non_function{}
 \title{ Women's World Record Times for Running and Corresponding Distances }
 \concept{ Women's World Record Times for Running and Corresponding Distances }
 \usage{data(E3.5)}

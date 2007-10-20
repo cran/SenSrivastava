@@ -1,6 +1,5 @@
 \name{E8.13}
 \alias{E8.13}
-\non_function{}
 \title{ Florida Cumulus Experiment Data }
 \concept{ Florida Cumulus Experiment Data }
 \usage{data(E8.13)}

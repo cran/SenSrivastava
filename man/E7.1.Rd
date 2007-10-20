@@ -1,6 +1,5 @@
 \name{E7.1}
 \alias{E7.1}
-\non_function{}
 \title{ Data on Dental Measurements }
 \concept{ Data on Dental Measurements }
 \concept{growth curve}

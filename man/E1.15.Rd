@@ -1,6 +1,5 @@
 \name{E1.15}
 \alias{E1.15}
-\non_function{}
 \title{ Stevens Experiment to compare notes against a standard (80 Db) }
 \concept{Stevens experiment to compare notes against a standard}
 \usage{data(E1.15)}

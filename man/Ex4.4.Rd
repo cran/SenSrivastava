@@ -1,6 +1,5 @@
 \name{Ex4.4}
 \alias{Ex4.4}
-\non_function{}
 \title{ Data on Effects of Air Pollution on Interpersonal Attraction }
 \concept{ Data on Effects of Air Pollution on Interpersonal Attraction }
 \usage{data(Ex4.4)}

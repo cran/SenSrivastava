@@ -1,6 +1,5 @@
 \name{Ec.8}
 \alias{Ec.8}
-\non_function{}
 \title{ Data on asylum requests to the U.S. by country of origen of applicant }
 \concept{ Data on asylum requests to the U.S. by country of origen of applicant }
 \usage{data(Ec.8)}

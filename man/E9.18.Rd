@@ -1,6 +1,5 @@
 \name{E9.18}
 \alias{E9.18}
-\non_function{}
 \title{ Data Travel Times and Usage for Automobiles and Public Transportation }
 \concept{ Data Travel Times and Usage for Automobiles and Public Transportation }
 \usage{data(E9.18)}

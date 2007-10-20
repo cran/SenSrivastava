@@ -1,6 +1,5 @@
 \name{E4.7}
 \alias{E4.7}
-\non_function{}
 \title{ Data on Per-Capita Income and Life Expectancy }
 \concept{ Data on Per-Capita Income and Life Expectancy }
 \usage{data(E4.7)}

@@ -1,6 +1,5 @@
 \name{E1.1}
 \alias{E1.1}
-\non_function{}
 \title{ Data on density of vehicles and average speed }
 \concept{vehicle density and speed}
 \usage{data(E1.1)}

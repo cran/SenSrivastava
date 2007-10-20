@@ -1,6 +1,5 @@
 \name{E9.3}
 \alias{E9.3}
-\non_function{}
 \title{ "Areas", lengths and widths of rectangles }
 \concept{ Areas, lengths and widths of rectangles }
 \usage{data(E9.3)}

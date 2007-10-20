@@ -1,6 +1,5 @@
 \name{E4.10}
 \alias{E4.10}
-\non_function{}
 \title{ Votes from Chicago's Twenty-second Ward by Precinct }
 \concept{ Votes from Chicago's Twenty-second Ward by Precinct }
 \usage{data(E4.10)}

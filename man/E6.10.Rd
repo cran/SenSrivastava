@@ -1,6 +1,5 @@
 \name{E6.10}
 \alias{E6.10}
-\non_function{}
 \title{ Data on Perceived and Computed Travel Times by Bus }
 \concept{ Data on Perceived and Computed Travel Times by Bus }
 \usage{data(E6.10)}

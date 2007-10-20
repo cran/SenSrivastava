@@ -1,6 +1,5 @@
 \name{E7.2}
 \alias{E7.2}
-\non_function{}
 \title{ Prices of Crude Oil, Natural Gas, Bituminous Coal and Lignite, 
            and Anthracite by Year. }
 \concept{Prices of Crude Oil, Natural Gas, Bituminous Coal and Lignite, and Anthracite by Year.}

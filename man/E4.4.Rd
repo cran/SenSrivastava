@@ -1,6 +1,5 @@
 \name{E4.4}
 \alias{E4.4}
-\non_function{}
 \title{ Measures of Quality for Agencies Delivering Transportation for 
         the Elderly and the Handicapped }
 \concept{Measures of Quality for Agencies Delivering Transportation for  the Elderly and the Handicapped }

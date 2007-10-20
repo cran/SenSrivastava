@@ -1,6 +1,5 @@
 \name{E7.5}
 \alias{E7.5}
-\non_function{}
 \title{ Data on Static Weights and Weight in Motion of Trucks }
 \concept{ Data on Static Weights and Weight in Motion of Trucks }
 \usage{data(E7.5)}

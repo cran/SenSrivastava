@@ -1,6 +1,5 @@
 \name{E2.2}
 \alias{E2.2}
-\non_function{}
 \title{ Data on House Prices }
 \concept{Data on House Prices}
 \usage{data(E2.2)}

@@ -1,6 +1,5 @@
 \name{E1.21}
 \alias{E1.21}
-\non_function{}
 \title{ Data on Loads and Deformation of a Bar }
 \concept{Data on Loads and Deformation of a Bar}
 \usage{data(E1.21)}

@@ -1,6 +1,5 @@
 \name{E9.19}
 \alias{E9.19}
-\non_function{}
 \title{ Acceleration data }
 \concept{ Acceleration data }
 \usage{data(E9.19)}

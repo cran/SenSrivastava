@@ -1,6 +1,5 @@
 \name{E7.7}
 \alias{E7.7}
-\non_function{}
 \title{ The Contiguity Matrix for the 34 Areas in Northern Chicago  }
 \concept{ The Contiguity Matrix for the 34 Areas in Northern Chicago  }
 \usage{data(E7.7)}

@@ -1,6 +1,5 @@
 \name{E2.8}
 \alias{E2.8}
-\non_function{}
 \title{ Data on per Capita Output of Workers in Shanghai }
 \concept{Data on per Capita Output of Workers in Shanghai}
 \usage{data(E2.8)}

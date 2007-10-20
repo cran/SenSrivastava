@@ -1,6 +1,5 @@
 \name{E3.7}
 \alias{E3.7}
-\non_function{}
 \title{ Data on Oxygen Demand in Dairy Wastes }
 \concept{ Data on Oxygen Demand in Dairy Wastes }
 \usage{data(E3.7)}

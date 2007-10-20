@@ -1,6 +1,5 @@
 \name{E6.11}
 \alias{E6.11}
-\non_function{}
 \title{ Heights of Fathers and Sons }
 \concept{ Heights of Fathers and Sons }
 \concept{regression}

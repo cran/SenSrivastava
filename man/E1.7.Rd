@@ -1,6 +1,5 @@
 \name{E1.7}
 \alias{E1.7}
-\non_function{}
 \title{ Data on Population and Number of Telephones }
 \concept{Relation between population  number  telephones}
 \usage{data(E1.7)}

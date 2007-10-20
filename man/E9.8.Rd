@@ -1,6 +1,5 @@
 \name{E9.8}
 \alias{E9.8}
-\non_function{}
 \title{ Data on monthly rent, annual income and househould size }
 \concept{ Data on monthly rent, annual income and househould size }
 \usage{data(E9.8)}

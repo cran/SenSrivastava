@@ -1,6 +1,5 @@
 \name{E2.4}
 \alias{E2.4}
-\non_function{}
 \title{ International Car Ownership Data }
 \concept{International car Ownership Data}
 \usage{data(E2.4)}

@@ -1,6 +1,5 @@
 \name{E1.17}
 \alias{E1.17}
-\non_function{}
 \title{ Data on Population Density and Vehicle Thefts }
 \concept{Population Density and Vehicle Thefts}
 \usage{data(E1.17)}

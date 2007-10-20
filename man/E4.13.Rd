@@ -1,6 +1,5 @@
 \name{E4.13}
 \alias{E4.13}
-\non_function{}
 \title{ Data on Hospital Charges }
 \concept{ Data on Hospital Charges }
 \usage{data(E4.13)}

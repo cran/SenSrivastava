@@ -1,6 +1,5 @@
 \name{E6.8}
 \alias{E6.8}
-\non_function{}
 \title{ Dial-a-ride Data }
 \concept{ Dial-a-ride Data }
 \concept{weighted regression }

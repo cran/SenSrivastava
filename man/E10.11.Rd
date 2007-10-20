@@ -1,6 +1,5 @@
 \name{E10.11}
 \alias{E10.11}
-\non_function{}
 \title{ Longley's Data }
 \concept{Longley's data}
 \concept{multicollinearity}

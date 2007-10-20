@@ -1,6 +1,5 @@
 \name{Ex.7.7}
 \alias{Ex.7.7}
-\non_function{}
 \title{ U.S. Population in thousands, for exercise 7.7 }
 \concept{U.S. Population}
 \usage{data(Ex.7.7)}

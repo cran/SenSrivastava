@@ -1,6 +1,5 @@
 \name{E3.9}
 \alias{E3.9}
-\non_function{}
 \title{ Blood Velocity Data }
 \concept{ Blood Velocity Data }
 \usage{data(E3.9)}

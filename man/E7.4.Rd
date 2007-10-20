@@ -1,6 +1,5 @@
 \name{E7.4}
 \alias{E7.4}
-\non_function{}
 \title{ Data on PCO2 and Cerebral Blood Flow for Five Regions of the 
                 Brain of five Chimpanzees }
 \concept{Data on PCO2 and Cerebral Blood Flow for Five Regions of the Brain of five Chimpanzees }

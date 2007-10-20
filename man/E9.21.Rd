@@ -1,6 +1,5 @@
 \name{E9.21}
 \alias{E9.21}
-\non_function{}
 \title{ Depreciation in Market Value of Large Factories }
 \concept{ Depreciation in Market Value of Large Factories }
 \usage{data(E9.21)}

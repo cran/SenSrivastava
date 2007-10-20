@@ -1,6 +1,5 @@
 \name{E1.18}
 \alias{E1.18}
-\non_function{}
 \title{ Data on Simsbury Marriages }
 \concept{Simsbury Marriages}
 \usage{data(E1.18)}

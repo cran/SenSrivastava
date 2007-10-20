@@ -1,6 +1,5 @@
 \name{E8.12}
 \alias{E8.12}
-\non_function{}
 \title{ Data on Lung Cancer Deaths and Cigarette Smoking }
 \concept{ Data on Lung Cancer Deaths and Cigarette Smoking }
 \usage{data(E8.12)}

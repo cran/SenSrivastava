@@ -1,6 +1,5 @@
 \name{E7.3}
 \alias{E7.3}
-\non_function{}
 \title{Data on Intake/Output Ratio }
 \concept{Data on Intake/Output Ratio }
 \usage{data(E7.3)}

@@ -1,6 +1,5 @@
 \name{E2.1}
 \alias{E2.1}
-\non_function{}
 \title{ Data on Grade Point Average and SAT Scores }
 \concept{Data on Grade Point Average and SAT Scores}
 \usage{data(E2.1)}

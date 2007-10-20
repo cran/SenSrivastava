@@ -1,6 +1,5 @@
 \name{E3.8}
 \alias{E3.8}
-\non_function{}
 \title{ Map reading Test scores and Route Finding Scores }
 \concept{ Map reading Test scores and Route Finding Scores }
 \usage{data(E3.8)}

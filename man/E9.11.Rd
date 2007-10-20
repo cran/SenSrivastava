@@ -1,6 +1,5 @@
 \name{E9.11}
 \alias{E9.11}
-\non_function{}
 \title{ Data on Transit Privatization }
 \concept{ Data on Transit Privatization }
 \usage{data(E9.11)}

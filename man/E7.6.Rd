@@ -1,6 +1,5 @@
 \name{E7.6}
 \alias{E7.6}
-\non_function{}
 \title{ Community Area Data for the North Part of the City of Chicago }
 \concept{ Community Area Data for the North Part of the City of Chicago }
 \usage{data(E7.6)}

@@ -1,6 +1,5 @@
 \name{E10.1}
 \alias{E10.1}
-\non_function{}
 \title{ Multicollinear Data }
 \concept{Artificially multicollinear data}
 \concept{variance inflation factor}

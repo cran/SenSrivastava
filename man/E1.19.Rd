@@ -1,6 +1,5 @@
 \name{E1.19}
 \alias{E1.19}
-\non_function{}
 \title{ Data on Book Prices, Pages and Type of Binding }
 \concept{Data on Book Prices, Pages and Type of Binding}
 \usage{data(E1.19)}

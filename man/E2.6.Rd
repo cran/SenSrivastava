@@ -1,6 +1,5 @@
 \name{E2.6}
 \alias{E2.6}
-\non_function{}
 \title{ Voltage Data }
 \concept{Voltage Data}
 \usage{data(E2.6)}

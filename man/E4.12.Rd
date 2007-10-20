@@ -1,6 +1,5 @@
 \name{E4.12}
 \alias{E4.12}
-\non_function{}
 \title{ Time taken by Professional Dieticians and Interns for Four Patient 
          Contact Activities }
 \concept{ Time taken by Professional Dieticians and Interns for Four Patient Contact Activities }

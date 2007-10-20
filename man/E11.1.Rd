@@ -1,6 +1,5 @@
 \name{E11.1}
 \alias{E11.1}
-\non_function{}
 \title{ Artificially Created Data for an Example on Variable Search }
 \concept{ Artificially Created Data for an Example on Variable Search }
 \concept{variable search}
