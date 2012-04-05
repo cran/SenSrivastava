@@ -1,6 +1,6 @@
 Package: SenSrivastava
-Version: 0.1-14
-Date: 2010-12-03
+Version: 2012-04-0
+Date: 2012-04-05
 Title: Datasets from Sen & Srivastava
 Author: Kjetil Halvorsen <kjetil1001@gmail.com>
 Maintainer: Kjetil Halvorsen <kjetil1001@gmail.com>
@@ -13,6 +13,6 @@ Description: Collection of datasets from Sen & Srivastava: Regression
         book.
 License: GPL (>= 2)
 Encoding: latin1
-Packaged: 2010-12-03 17:40:42 UTC; kjetil
+Packaged: 2012-04-04 17:56:48 UTC; kjetil
 Repository: CRAN
-Date/Publication: 2010-12-04 10:32:06
+Date/Publication: 2012-04-04 15:31:45
