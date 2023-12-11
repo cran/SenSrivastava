@@ -30,7 +30,7 @@ a numeric vector, perceived travel times, as reported to the U.S. Census
 }
 \source{
  The data where selected by one of the authors from a larger data set compiled
- by Cæsar Singh from census tapes, timetables and maps. 
+ by CÃ¦sar Singh from census tapes, timetables and maps. 
 }
 \examples{
 data(E6.10)

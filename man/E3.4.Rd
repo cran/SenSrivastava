@@ -20,7 +20,7 @@ a numeric vector, time in seconds.
 }
 \seealso{ \code{\link{E3.5}}, the records for women. }
 \source{
- Encyclopædia Britannica, 15th Edition, 1974, Micropædia, IX, 
+ EncyclopÃ¦dia Britannica, 15th Edition, 1974, MicropÃ¦dia, IX, 
  page 485. 
 }
 \examples{

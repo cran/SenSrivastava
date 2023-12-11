@@ -20,7 +20,7 @@ a numeric vector, time used, in seconds.
 }
 \seealso{ \code{\link{E3.4}}, for the men's records. }
 \source{
- Encyclopædia Britannica, 15th Edition, 1974, Micropædia, IX, 
+ EncyclopÃ¦dia Britannica, 15th Edition, 1974, MicropÃ¦dia, IX, 
  page 487. 
 }
 \examples{
